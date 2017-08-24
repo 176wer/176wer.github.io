@@ -118,8 +118,8 @@ social:
   DouBan: your-douban-url
   ZhiHu: your-zhihu-url
 ```
-
-### Feed link.
+###
+### Feed link.d
 
 > Show a feed link.
 
