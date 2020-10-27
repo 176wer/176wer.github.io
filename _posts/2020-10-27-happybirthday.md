@@ -6,4 +6,4 @@ tags:
 category: 生日
 ---
 
-![错误提示-01](/assets/images/162425hsrrvtiyz8c6yjpi.jpg)
+![错误提示-01](/assets/images/happy.jpg)
